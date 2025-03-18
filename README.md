@@ -1,7 +1,7 @@
 # 🌐 Cybersecurity Enthusiast | Computer Science Student
 
 <div align="center">
-  <img height="269" width="480" alt="GIF" align="center" src="https://raw.githubusercontent.com/alexithema/0xroot/refs/heads/main/giphy.webp">
+  <img height="269" width="480" alt="GIF" align="center" src="https://raw.githubusercontent.com/alexithema/alexithema/refs/heads/main/angry.gif">
 </div>
 
 </br>
