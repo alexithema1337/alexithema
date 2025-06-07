@@ -57,4 +57,4 @@ I welcome professional inquiries, collaboration opportunities, and meaningful di
 
 ## GitHub Statistics
 
-![Alex Asmodeus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexithema&show_icons=true&theme=dark)
+![Alex Asmodeus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexithema1337&show_icons=true&theme=dark)
