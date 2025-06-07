@@ -1,6 +1,10 @@
 # Alexithema 1337
 
-![Cybersecurity Animation](https://raw.githubusercontent.com/alexithema/alexithema/refs/heads/main/giphy.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexithema/alexithema/refs/heads/main/giphy.gif" alt="Cybersecurity GIF" width="480" height="269">
+</div>
+
+</br>
 
 ---
 
