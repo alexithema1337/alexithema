@@ -1,29 +1,60 @@
-# 🌐 Cybersecurity Enthusiast | Computer Science Student
+# Alexithema 1337
 
-<div align="center">
-  <img height="269" width="480" alt="GIF" align="center" src="https://raw.githubusercontent.com/alexithema/alexithema/refs/heads/main/giphy.gif">
-</div>
-
-</br>
-</br>
-</br>
-
-Hello! I'm a **Computer Science student** passionate about exploring the fascinating world of **cybersecurity**. I enjoy learning about **ethical hacking**, **web application security**, and **system vulnerabilities**.
-
-## 🔐 Interests:
-
-- Web Penetration Testing
-- Bug Hunting
-- Network Security
-- Scripting & Automation
-
-## 💻 Currently:
-
-I am enhancing my skills in **secure coding** and **threat analysis**. Let's collaborate on projects that make the digital world safer!
-
-Feel free to connect with me for discussions, projects, or just to exchange knowledge!
+![Cybersecurity Animation](https://raw.githubusercontent.com/alexithema/alexithema/refs/heads/main/giphy.gif)
 
 ---
 
-📩 **Let's Connect:**  
-Feel free to reach out if you share similar interests or want to collaborate on a project.
+## About Me
+
+I am a dedicated **Computer Science student** with a strong focus on **Cybersecurity**. My academic and practical interests revolve around vulnerability assessment, secure software development, and advancing defensive strategies to protect digital assets.
+
+I am committed to ethical hacking principles and continuous professional development to contribute effectively to the cybersecurity community.
+
+---
+
+## Areas of Expertise
+
+- Web Application Penetration Testing  
+- Vulnerability Research and Disclosure  
+- Network Security and Threat Mitigation  
+- Automation and Scripting for Security Operations  
+
+---
+
+## Current Focus
+
+- Applying best practices in **Secure Software Development**  
+- Enhancing skills in **Incident Response and Threat Intelligence**  
+- Developing security tools and automation to improve operational efficiency  
+
+---
+
+## Selected Projects
+
+- **Web Vulnerability Scanner**  
+  Developed a Python-based tool to automate scanning of common web vulnerabilities such as SQL Injection, XSS, and CSRF.
+
+- **Custom WordPress Security Plugin**  
+  Created a plugin to harden WordPress installations by implementing advanced login protections and firewall rules.
+
+- **Incident Response Automation Scripts**  
+  Automated log analysis and alerting processes using Bash and Python to accelerate threat detection.
+
+---
+
+## Contact & Collaboration
+
+I welcome professional inquiries, collaboration opportunities, and meaningful discussions related to cybersecurity and technology.
+
+- 📧 Email: sinzoxp@gmail.com  
+- 🌐 Portfolio: [alexithema.github.io](https://alexithema1337.github.io)  
+
+---
+
+> *"Security is not a product, but a process."* – Bruce Schneier
+
+---
+
+## GitHub Statistics
+
+![Alex Asmodeus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexithema&show_icons=true&theme=dark)
