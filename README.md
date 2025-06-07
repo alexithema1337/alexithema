@@ -83,11 +83,6 @@ I believe collaboration and knowledge-sharing are key to advancing cybersecurity
 
 ---
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## 🤝 Let’s Connect
 
 I'm always open to new connections, collaborative projects, and insightful discussions around cybersecurity and technology.  
@@ -101,4 +96,3 @@ Feel free to reach out if you share similar interests, want to brainstorm ideas,
 
 [![](https://visitcount.itsvg.in/api?id=alexithema1337&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
